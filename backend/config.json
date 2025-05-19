@@ -1,0 +1,15 @@
+{
+    "database": {
+        "url": "postgresql://postgres:YTFUoTUHKtNnRnahcUrLLJGMxFHRYBwn@shortline.proxy.rlwy.net:51812/railway",
+        "ssl": true
+    },
+    "secret": "secret",
+    "smtpOptions": {
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "auth": {
+            "user": "loranecamingao0326@gmail.com",
+            "pass": "hlmp oxvl rupb cqwb"
+        }
+    }
+}
