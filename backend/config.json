@@ -1,6 +1,6 @@
 {
     "database": {
-        "url": "postgresql://postgres:YTFUoTUHKtNnRnahcUrLLJGMxFHRYBwn@shortline.proxy.rlwy.net:51812/railway",
+        "url": "postgresql://postgres:KdJARghBkJiyODwCjZtpVxlegvXdemRL@shuttle.proxy.rlwy.net:47978/railway",
         "ssl": true
     },
     "secret": "secret",
